@@ -107,9 +107,9 @@ uselessCode = 'I am useless'
 # and replace the explanation mark with a sad face. Press Esc to eliminate
 # multiple cursors.
 
-catchMeIfYouCan1 = 'You did not catch me!'
-catchMeIfYouCan2 = 'You did not catch me!'
-catchMeIfYouCan3 = 'You did not catch me!'
+catchMeIfYouCan1 = 'You  me!'
+catchMeIfYouCan2 = 'You  me!'
+catchMeIfYouCan3 = 'You  me!'
 
 
 # EXERCISE 4. Bracket Matching.
